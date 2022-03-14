@@ -15,3 +15,5 @@ experiment-*
 not_tracked_dir/
 output/
 .vscode
+out
+data
